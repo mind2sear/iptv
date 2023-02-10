@@ -1,0 +1,7 @@
+星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
+翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
+CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
+广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
